@@ -17,9 +17,8 @@
     "@babel/preset-env": "^7.4.4",
     "babel-watch": "^7.0.0",
     "jest": "^24.7.1",
-    "prettier": "1.17.0"
-  },
-  "dependencies": {
+    "prettier": "1.17.0",
     "regenerator-runtime": "^0.13.3"
-  }
+  },
+  "dependencies": {}
 }
