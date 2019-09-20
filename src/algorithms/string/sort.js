@@ -5,7 +5,7 @@ export default class Sort extends Algorithm {
     super();
     this.insertionSort = this.insertionSort;
     this.algorithms = {
-      insertionSort: this.insertionSort,
+      insertionSort: this.insertionSort
     };
   }
 
